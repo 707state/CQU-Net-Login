@@ -1,5 +1,6 @@
 # -
 使用方法：
+安装dialog(gdialog)
 ```
 ./enter.sh
 ```
